@@ -1,5 +1,115 @@
+.head {  
+  width: 100%;
+  overflow: hidden;
+  height: auto;
+}
+
+div {
+  
+  width: auto;
+  border:2.5px solid; 
+  min-height: 100%;
+
+}
+
+.grid-container {
+  display: grid;
+  justify-content: start;
+  grid-gap: 10px;
+  max-width: 700px;
+  align-items: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+
+
+}
+
+  .map{
+    max-width:500px;
+    max-height: 500px;
+    text-align: middle;
+    display: inline-block;
+    margin: 10px;
+    top: 50%;
+    left: 50%;
+    bottom: -100px;
+  }
+
+
+
+table.GeneratedTable {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #ffcc00;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color:black;
+  border-style: solid;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffcc00;
+}
+
+
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin:0;
+}
+
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+ul.header {
+  background-color:#111;
+  padding: 0;
+}
+.active {
+  background-color: #0099FF;
+}
+
+
+.content {
+  background-color: #FFF;
+  padding:20px;
+  margin: 10px;
+}
+
+.content h2 {padding: 0; margin:0;}
+
+.content li{ margin-bottom: 10px;}
+
+
+
+html {
+  max-height: 600vh;
+}
+
 body {
+
+  background-image: linear-gradient(white, yellow, white);
+  background-color: rgba(255, 217, 0, 0.801); 
+  padding: 20px;
   margin: 0;
+
+ 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

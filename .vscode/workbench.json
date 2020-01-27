@@ -1,0 +1,18 @@
+{
+	"currentWorkbench": {
+		"files": [
+			{
+				"path": "src/Main.js",
+				"alias": " 1 src/Main.js"
+			},
+			{
+				"path": "src/Games.js",
+				"alias": " 2 src/Games.js"
+			},
+			{
+				"path": "src/Prices.js",
+				"alias": " 3 src/Prices.js"
+			}
+		]
+	}
+}
