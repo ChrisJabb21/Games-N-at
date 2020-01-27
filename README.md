@@ -1,3 +1,5 @@
+## Summary
+
 This is a React SPA application using the React Router DOM and Navlink elements
 
 It made based off of the original 
