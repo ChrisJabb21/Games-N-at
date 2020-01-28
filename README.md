@@ -1,8 +1,9 @@
+## Summary
+
 This is a React SPA application using the React Router DOM and Navlink elements
 
-It made based off of the original 
-website [Original](https://sites.google.com/site/gamesnatsite/) 
-for a place in Pittsburgh called Games N'at.
+It was made based off of the [original](https://sites.google.com/site/gamesnatsite/) 
+website for a arcade place in Pittsburgh called Games N'at. I made with a minimalistic design and as a learning experience for the React framework and Single Page Application (SPA) design.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
