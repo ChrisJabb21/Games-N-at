@@ -30,7 +30,7 @@ class Main extends Component {
             <h5> It's a Pittsburgh Thing</h5>
             </div>
         	{/* NAVIGATION LINKS */}
-            <Navbar>
+            
             <ul className="header">
                 <li><NavLink exact to="/">Home</NavLink></li>
                 <li><NavLink to="/prices">Prices</NavLink></li>
@@ -38,7 +38,6 @@ class Main extends Component {
                 <li><NavLink to="/games">Games</NavLink></li>
                 <li><NavLink to="/hours">Hours & Map </NavLink></li>
             </ul>
-            </Navbar>
             {/* CONTAINER TO LOAD CONTENT  */}
 
             <div className="content">
